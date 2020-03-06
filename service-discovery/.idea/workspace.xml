@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1d1cf8c-9cb1-41c4-bb1e-586038dfb591" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1Y30TmpzpiLtSTmdXPvLoo0GNz6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../microservicesconfig" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-discovery.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="root.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1d1cf8c-9cb1-41c4-bb1e-586038dfb591" name="Default Changelist" comment="" />
+      <created>1582155980605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582155980605</updated>
+      <workItem from="1582155984890" duration="3372000" />
+      <workItem from="1582160046584" duration="281000" />
+      <workItem from="1582160432941" duration="243000" />
+      <workItem from="1582220826059" duration="70000" />
+      <workItem from="1582241487031" duration="629000" />
+      <workItem from="1582242755521" duration="1482000" />
+      <workItem from="1582676035637" duration="71000" />
+      <workItem from="1582745882433" duration="1868000" />
+      <workItem from="1582750741997" duration="2546000" />
+      <workItem from="1582761553513" duration="19000" />
+      <workItem from="1582762229124" duration="723000" />
+      <workItem from="1582765274682" duration="543000" />
+      <workItem from="1583118561140" duration="175000" />
+      <workItem from="1583118945024" duration="3433000" />
+      <workItem from="1583123369922" duration="1168000" />
+      <workItem from="1583277985921" duration="224000" />
+      <workItem from="1583278315579" duration="571000" />
+      <workItem from="1583281640980" duration="231000" />
+      <workItem from="1583282755584" duration="39000" />
+      <workItem from="1583283079774" duration="178000" />
+      <workItem from="1583289514080" duration="99000" />
+      <workItem from="1583290175525" duration="85000" />
+      <workItem from="1583291904204" duration="15000" />
+      <workItem from="1583293538740" duration="269000" />
+      <workItem from="1583294175196" duration="614000" />
+      <workItem from="1583298156956" duration="1404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582243104113">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582243104113" />
+    <state width="1144" height="209" key="GridCell.Tab.0.bottom" timestamp="1583300227601">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="209" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583300227601" />
+    <state width="1144" height="209" key="GridCell.Tab.0.center" timestamp="1583300227600">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="209" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583300227600" />
+    <state width="1144" height="209" key="GridCell.Tab.0.left" timestamp="1583300227599">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="209" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583300227599" />
+    <state width="1144" height="209" key="GridCell.Tab.0.right" timestamp="1583300227600">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="209" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583300227600" />
+    <state width="1144" height="209" key="GridCell.Tab.1.bottom" timestamp="1583300227603">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="209" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583300227603" />
+    <state width="1144" height="209" key="GridCell.Tab.1.center" timestamp="1583300227602">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="209" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1583300227602" />
+    <state width="1144" height="209" key="GridCell.Tab.1.left" timestamp="1583300227601">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="209" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1583300227601" />
+    <state width="1144" height="209" key="GridCell.Tab.1.right" timestamp="1583300227602">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="209" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1583300227602" />
+    <state width="1144" height="365" key="GridCell.Tab.2.bottom" timestamp="1583293809526">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="365" key="GridCell.Tab.2.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583293809526" />
+    <state width="1144" height="365" key="GridCell.Tab.2.center" timestamp="1583293809525">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="365" key="GridCell.Tab.2.center/67.27.1299.741@67.27.1299.741" timestamp="1583293809525" />
+    <state width="1144" height="365" key="GridCell.Tab.2.left" timestamp="1583293809525">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="365" key="GridCell.Tab.2.left/67.27.1299.741@67.27.1299.741" timestamp="1583293809525" />
+    <state width="1144" height="365" key="GridCell.Tab.2.right" timestamp="1583293809526">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1144" height="365" key="GridCell.Tab.2.right/67.27.1299.741@67.27.1299.741" timestamp="1583293809526" />
+    <state x="390" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1583282792591">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="390" y="300" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583282792591" />
+  </component>
+</project>
